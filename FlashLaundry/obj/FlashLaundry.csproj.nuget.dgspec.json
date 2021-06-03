@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lovanto\\source\\repos\\FlashLaundry\\FlashLaundry\\FlashLaundry.csproj": {}
+    "E:\\Kuliah\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Mod12\\FlashLaundry\\FlashLaundry.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lovanto\\source\\repos\\FlashLaundry\\FlashLaundry\\FlashLaundry.csproj": {
+    "E:\\Kuliah\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Mod12\\FlashLaundry\\FlashLaundry.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lovanto\\source\\repos\\FlashLaundry\\FlashLaundry\\FlashLaundry.csproj",
+        "projectUniqueName": "E:\\Kuliah\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Mod12\\FlashLaundry\\FlashLaundry.csproj",
         "projectName": "FlashLaundry",
-        "projectPath": "C:\\Users\\Lovanto\\source\\repos\\FlashLaundry\\FlashLaundry\\FlashLaundry.csproj",
+        "projectPath": "E:\\Kuliah\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Mod12\\FlashLaundry\\FlashLaundry.csproj",
         "packagesPath": "C:\\Users\\Lovanto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lovanto\\source\\repos\\FlashLaundry\\FlashLaundry\\obj\\",
+        "outputPath": "E:\\Kuliah\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Mod12\\FlashLaundry\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lovanto\\AppData\\Roaming\\NuGet\\NuGet.Config",

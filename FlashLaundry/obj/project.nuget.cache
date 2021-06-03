@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7hXh7XQfYyhJl5Wd4XJJzXBqq1HrOBKr/s2khWwSEtIxsR0Eq0Z0EQ0I+t1gd6M+b5ZtA3kMfNg3WZbdGfmeqw==",
+  "dgSpecHash": "lIHLjIU9h8LCITR3QhfzXL2VU/dDxWPN1gk0kFmzZEXx+UvUxA0s5YY+RHj1qwmPIb0//CUqSQ6UWScyT2pMZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lovanto\\source\\repos\\FlashLaundry\\FlashLaundry\\FlashLaundry.csproj",
+  "projectFilePath": "E:\\Kuliah\\KONSTRUKSI PERANGKAT LUNAK\\Praktikum\\Mod12\\FlashLaundry\\FlashLaundry.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lovanto\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
   ],
