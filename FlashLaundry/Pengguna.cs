@@ -14,11 +14,18 @@ namespace FlashLaundry
         // Membuat data pengguna baru dengan data yang berasal dari parameter
         public Pengguna(string username, string noHP, string alamatPengguna, string email, string kataSandi)
         {
-            _username = username;
-            _noHP = noHP;
-            _alamatPengguna = alamatPengguna;
-            _email = email;
-            _kataSandi = kataSandi;
+            try
+            {
+                _username = username;
+                _noHP = noHP;
+                _alamatPengguna = alamatPengguna;
+                _email = email;
+                _kataSandi = kataSandi;
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
 
         // Mengembalikan data _username
